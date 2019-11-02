@@ -1,8 +1,8 @@
 # > PersonalReject
-DOMAIN,ads.yap.yahoo.com
-DOMAIN,media.admob.com
-DOMAIN,ads.aralego.com
-DOMAIN-SUFFIX,ad7.on.cc
-DOMAIN-SUFFIX,soma.smaato.net
-DOMAIN-SUFFIX,ad.hot-mob.com
-DOMAIN-SUFFIX,cdn.hot-mob.com
+DOMAIN,ads.yap.yahoo.com,REJECT
+DOMAIN,media.admob.com,REJECT
+DOMAIN,ads.aralego.com,REJECT
+DOMAIN-SUFFIX,ad7.on.cc,REJECT
+DOMAIN-SUFFIX,soma.smaato.net,REJECT
+DOMAIN-SUFFIX,ad.hot-mob.com,REJECT
+DOMAIN-SUFFIX,cdn.hot-mob.com,REJECT
