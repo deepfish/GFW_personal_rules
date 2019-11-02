@@ -21,5 +21,5 @@ HOST-SUFFIX,kuaidi100.com
 HOST-SUFFIX,m.client.10010.com
 USER-AGENT,eleme*
 HOST-SUFFIX,paxsz.com
-HOST,y.qq.com
+HOST-SUFFIX,y.qq.com
 HOST,dl.stream.qqmusic.qq.com
