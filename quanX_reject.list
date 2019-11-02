@@ -1,7 +1,7 @@
-HOST,ads.yap.yahoo.com
-HOST,media.admob.com
-HOST,ads.aralego.com
-HOST-SUFFIX,ad7.on.cc
-HOST-SUFFIX,soma.smaato.net
-HOST-SUFFIX,ad.hot-mob.com
-HOST-SUFFIX,cdn.hot-mob.com
+DOMAIN,ads.yap.yahoo.com
+DOMAIN,media.admob.com
+DOMAIN,ads.aralego.com
+DOMAIN-SUFFIX,ad7.on.cc
+DOMAIN-SUFFIX,soma.smaato.net
+DOMAIN-SUFFIX,ad.hot-mob.com
+DOMAIN-SUFFIX,cdn.hot-mob.com
