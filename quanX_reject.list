@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,ad7.on.cc,REJECT
 DOMAIN-SUFFIX,soma.smaato.net,REJECT
 DOMAIN-SUFFIX,ad.hot-mob.com,REJECT
 DOMAIN-SUFFIX,cdn.hot-mob.com,REJECT
+DOMAIN-SUFFIX,pingma.qq.com,REJECT
