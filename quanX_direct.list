@@ -37,3 +37,6 @@ DOMAIN-SUFFIX,mbcloud.com,DIRECT
 DOMAIN-SUFFIX,cib.com.cn,DIRECT
 DOMAIN-SUFFIX,cibfintech.com,DIRECT
 USER-AGENT,*CreditBank*,DIRECT
+DOMAIN,avatar.ithome.com,DIRECT
+DOMAIN,avatarsource.ithome.com,DIRECT
+DOMAIN,img.ithome.com,DIRECT
