@@ -40,3 +40,5 @@ USER-AGENT,*CreditBank*,DIRECT
 DOMAIN,avatar.ithome.com,DIRECT
 DOMAIN,avatarsource.ithome.com,DIRECT
 DOMAIN,img.ithome.com,DIRECT
+DOMAIN-SUFFIX,mi.com,DIRECT
+DOMAIN-SUFFIX,xiaomi.com,DIRECT
