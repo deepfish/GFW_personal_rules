@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,cmbchina.com,DIRECT
 DOMAIN-SUFFIX,mbcloud.com,DIRECT
 DOMAIN-SUFFIX,cib.com.cn,DIRECT
 DOMAIN-SUFFIX,cibfintech.com,DIRECT
-USER-AGENT,*CreditBank*,DIRECT
 DOMAIN,avatar.ithome.com,DIRECT
 DOMAIN,avatarsource.ithome.com,DIRECT
 DOMAIN,img.ithome.com,DIRECT
@@ -44,3 +43,5 @@ DOMAIN-SUFFIX,mi.com,DIRECT
 DOMAIN-SUFFIX,xiaomi.com,DIRECT
 DOMAIN-SUFFIX,95516.com,DIRECT
 DOMAIN,cn-smp-paymentservices.apple.com,DIRECT
+USER-AGENT,*CreditBank*,DIRECT
+USER-AGENT,*bili*,DIRECT
