@@ -46,3 +46,5 @@ DOMAIN,cn-smp-paymentservices.apple.com,DIRECT
 USER-AGENT,*CreditBank*,DIRECT
 USER-AGENT,*bili*,DIRECT
 DOMAIN-KEYWORD,*bili*,DIRECT
+DOMAIN-SUFFIX,bilibili.com,DIRECT
+DOMAIN-SUFFIX,biliapi.com,DIRECT
