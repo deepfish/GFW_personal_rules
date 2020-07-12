@@ -30,3 +30,4 @@ HOST-SUFFIX,cdn.hot-mob.com,reject
 HOST-SUFFIX,paxsz.com,direct
 HOST,y.qq.com,direct
 HOST,dl.stream.qqmusic.qq.com,direct
+HOST-SUFFIX,API.BILIBILI.COM,DIRECT
