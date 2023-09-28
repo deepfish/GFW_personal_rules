@@ -7,3 +7,25 @@ DOMAIN-SUFFIX,soma.smaato.net,REJECT
 DOMAIN-SUFFIX,ad.hot-mob.com,REJECT
 DOMAIN-SUFFIX,cdn.hot-mob.com,REJECT
 DOMAIN-SUFFIX,pingma.qq.com,REJECT
+
+# 中國移動
+DOMAIN-SUFFIX,config.cmpassport.com
+DOMAIN-SUFFIX,www.cmpassport.com
+DOMAIN-SUFFIX,wap.cmpassport.com
+DOMAIN-SUFFIX,onekey1.cmpassport.com
+DOMAIN-SUFFIX,log1.cmpassport.com
+DOMAIN-SUFFIX,smsks1.cmpassport.com
+DOMAIN-SUFFIX,verify.cmpassport.com
+
+# 中國聯通
+DOMAIN-SUFFIX,opencloud.wostore.cn
+DOMAIN-SUFFIX,auth.wosms.cn
+DOMAIN-SUFFIX,id.mail.wo.cn
+DOMAIN-SUFFIX,mdn.open.wo.cn
+DOMAIN-SUFFIX,hmrz.wo.cn
+DOMAIN-SUFFIX,nishub1.10010.com
+DOMAIN-SUFFIX,enrichgw.10010.com
+
+# 中國電信
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,open.e.189.cn
